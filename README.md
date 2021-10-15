@@ -1,5 +1,5 @@
 1.  Describe a few model training strategies.
-[Answer](./1. Describe a few model training strategies/Describe a few model training strategies.md)
+[Answer](<./1. Describe a few model training strategies/Describe a few model training strategies.md)
 2.  [[Describe a few data augmentation techniques]]
 3.  [[How can we automatically label data? Should we do it, and if yes, what are a few cautions to have in mind?]]
 4.  What is transfer learning? When should we utilize it?
