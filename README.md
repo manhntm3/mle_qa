@@ -51,9 +51,9 @@ Engineering in AI
 23.  For AI engineering, when should we use **C++**, when should we use **Python**?
 [Answer](23.%20%20For%20AI%20engineering,%20when%20should%20we%20use%20C++,%20when%20should%20we%20use%20Python%20?/README.md)
 24.  Distinguish `std::vector`, `std::queue`, `std::stack` and `std::deque` in **C++**. When are they useful in an **AI**/Vi**s**ion context?
-    
-25.  Describe a few techniques to do concurrent programming in both **C++** and **Python**.
  [Answer](24.%20Vector%20Stack%20Queue/README)
+25.  Describe a few techniques to do concurrent programming in both **C++** and **Python**.
+
 26.  Describe a few techniques to reduce memory usage.
  [Answer](26.%20Describe%20a%20few%20techniques%20to%20reduce%20memory%20usage./README.md)
 27.  How can we utilize **Git** to manage a code-base and collaborate with others?
@@ -70,11 +70,11 @@ AI Application
 [Answer](31.%20%20Discuss%20a%20few%20**OCR**%20applications./README.md)
 
 32.  Discuss a few **NLP** applications.
-    
+[Answer](32.%20Discuss%20a%20few%20**NLP**%20applications./README.md)
 33.  Discuss a few **Reinforcement Learning** applications.
     
 34.  Discuss a few **GAN** applications.
-    
+[Answer](34.%20%20Discuss%20a%20few%20**GAN**%20applications./README.md)
 35.  Discuss a few **AI** applications in **Cyber Security**.
     
 36.  Discuss a few **AI** applications in **Quantitative Analysis**.
@@ -82,3 +82,4 @@ AI Application
 37.  What is **Decentralized AI**?
     
 38.  Write an **AI** application of choice.
+[Answer](38.AI%20Application)
