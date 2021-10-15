@@ -24,9 +24,9 @@ AI application in computer vision
 11.  How to calculate the direction of a moving object in a camera viewport?
     
 12.  How to stabilize an arbitrary blurry or shaky video?
-    
+[Answer](12.%20How%20to%20stabilize%20an%20arbitrary%20blurry%20or%20shaky%20video?/README.md)
 13.  How to enhance the quality of an arbitrary image?
-    
+
 14.  How to draw a 2D bird's-eye view map from an arbitrary camera angle?
     
 15.  Discuss object tracking, both single and multiple.
@@ -53,9 +53,9 @@ Engineering in AI
 24.  Distinguish `std::vector`, `std::queue`, `std::stack` and `std::deque` in **C++**. When are they useful in an **AI**/Vi**s**ion context?
     
 25.  Describe a few techniques to do concurrent programming in both **C++** and **Python**.
-    
+ [Answer](24.%20Vector%20Stack%20Queue/README)
 26.  Describe a few techniques to reduce memory usage.
-    
+ [Answer](26.%20Describe%20a%20few%20techniques%20to%20reduce%20memory%20usage./README.md)
 27.  How can we utilize **Git** to manage a code-base and collaborate with others?
     
 28.  What are the steps to tackle a brand new **Vision** problem/functionality?
@@ -65,8 +65,10 @@ Engineering in AI
 30.  Discuss a few applications that can be deployed to a drone, a submarine, and a satellite.
 
 AI Application	
+
 31.  Discuss a few **OCR** applications.
 [Answer](31.%20%20Discuss%20a%20few%20**OCR**%20applications./README.md)
+
 32.  Discuss a few **NLP** applications.
     
 33.  Discuss a few **Reinforcement Learning** applications.
