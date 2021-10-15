@@ -53,7 +53,7 @@ Engineering in AI
 24.  Distinguish `std::vector`, `std::queue`, `std::stack` and `std::deque` in **C++**. When are they useful in an **AI**/Vi**s**ion context?
  [Answer](24.%20Vector%20Stack%20Queue/README)
 25.  Describe a few techniques to do concurrent programming in both **C++** and **Python**.
-
+[Answer](25.%20%20Describe%20a%20few%20techniques%20to%20do%20concurrent%20programming%20in%20both%20**C++**%20and%20**Python**./README.md)
 26.  Describe a few techniques to reduce memory usage.
  [Answer](26.%20Describe%20a%20few%20techniques%20to%20reduce%20memory%20usage./README.md)
 27.  How can we utilize **Git** to manage a code-base and collaborate with others?
