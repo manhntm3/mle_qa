@@ -14,4 +14,5 @@ YOLOv5
 7.  Compare **YOLOv4** with **ScaledYOLOv4**.
     
 8.  Is running a large image through a **YOLO** model slower than running many small images through it?
-No.
+
+Yes. Image go through YOLO model will have the input size is a multiple of 32. Larger images means more predictions and more computaionally expensive thus slower.
